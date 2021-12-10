@@ -1,0 +1,13 @@
+[package]
+name = "carlog"
+version = "0.1.0"
+edition = "2021"
+authors = ["Pau Machetti Vallverdú <paumachetti@gmail.com>"]
+description = "Simple, lightweight crate that provides Cargo logging style messages"
+repository = "https://github.com/PauMAVA/carlog"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+colored = "2.0.0"
