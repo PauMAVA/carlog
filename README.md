@@ -23,7 +23,7 @@ use carlog::prelude::*;
 ```
 
  ### Example
- ``rust
+ ```rust
  #[macro_use] extern crate carlog;
 
  use carlog::prelude::*;
